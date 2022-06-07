@@ -1,2 +1,2 @@
 # rsschool-cv
-https://IlyaDevyatkin.github.io/rsschool-cv/cv
+https://DIL2811.github.io/rsschool-cv/cv
